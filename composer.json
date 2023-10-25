@@ -1,0 +1,7 @@
+{
+    "name": "edugovi/bdclr2023",
+    "description": "Public theme for Omeka Classic",
+    "require": {
+        "twbs/bootstrap": "5.3.0"
+    }
+}

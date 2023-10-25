@@ -1,0 +1,5 @@
+.DS_Store
+/vendor/
+/scss/
+.sass-cache
+/composer.lock
